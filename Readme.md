@@ -4,6 +4,7 @@
 ##### Coursera course: Using Databases with Python, Course 4 of Python for Everybody Specialization - Offered by University of Michigan
 
 ### In this project, I am going to use Google geocoding API to clean up some user-entered geographic location and place data on Google Map.
+<img width="1008" alt="Screenshot 2023-01-27 at 9 50 44 AM" src="https://user-images.githubusercontent.com/18339193/215115901-d1c57835-cc45-4d6b-836f-dbd0f6319713.png">
 
 - Install SQLite Browser to view and modify databases from 
 http://sqlitebrowser.org/
